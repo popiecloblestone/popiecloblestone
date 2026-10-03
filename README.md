@@ -105,8 +105,7 @@ const junior = {
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | [**Landin-page-Aires-Films**](https://github.com/popiecloblestone/Landin-page-Aires-Films) | Landing page para produtora de filmes | Python / Web |
-| [**Apresenta-o**](https://github.com/popiecloblestone/Apresenta-o) | Projeto de apresentação | TypeScript |
-| [**nn**](https://github.com/popiecloblestone/nn) | Estudos e experimentos | Python |
+| [**Bola da Vez 10**](https://boladavez10.com) | E-commerce de chuteiras e equipamentos esportivos, com envio para todo o Brasil | Web / TypeScript |
 
 ---
 
